@@ -35,8 +35,10 @@ Languages and Tools:
 > initiate --connection_protocol
 
 
+
+
 <p align="center">
-  Let's connect and build the future together!<br/>
+  Let's connect and build the future together!<br/><br/><br/>
   <a href="https://www.linkedin.com/in/ferdian-adham-62885223a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
