@@ -45,6 +45,7 @@ Languages and Tools:
   <a href="mailto:ferdianadham@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
+  > End of transmission.
 </p>
 
 
