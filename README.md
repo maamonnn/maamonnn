@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ferdi-dev">
+  <a href="https://github.com/maamonnn">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=500&lines=%3E+Booting+Ferdi's+Profile...;%3E+Executing+command%3A+whoami;%3E+Welcome!+I'm+Ferdi%2C+the+human+behind+this+terminal." alt="Typing SVG" />
   </a>
 </p>
