@@ -15,7 +15,6 @@
 
 > ls /core_systems
 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light&per_line=4)](https://skillicons.dev)
 
 > query --active_missions
 [IN_PROGRESS] Currently building an rugpull detector for tokens in solana ecosystem.
