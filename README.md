@@ -19,8 +19,9 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=light)](https://skillicons.dev)
 
 > query --active_missions
->[IN_PROGRESS] Currently building an rugpull detector for tokens in solana ecosystem.
->[LEARNING] Diving deeper into Anchor for blockchain developer.
->[EXPLORING] Natural Language Processing for LLM.
+>
+[IN_PROGRESS] Currently building an rugpull detector for tokens in solana ecosystem.
+[LEARNING] Diving deeper into Anchor for blockchain developer.
+[EXPLORING] Natural Language Processing for LLM.
 
 > run system_diagnostics
