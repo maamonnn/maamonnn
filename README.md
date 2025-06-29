@@ -17,7 +17,7 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv,c,cpp,arduino,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
 > query --active_missions
 
 - [IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
