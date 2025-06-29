@@ -14,20 +14,25 @@
 - [STATUS: GOAL]          > To bridge the gap between human creativity and machine intelligence.
 ```
 > ls /core_systems
-
-Languages and Tools:
+> 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=light)](https://skillicons.dev)
 > query --active_missions
-[IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
-[LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
-[EXPLORING] Natural Language Processing for human-robot interaction.
+>
+> [IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
+>
+> [LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
+>
+> [EXPLORING] Natural Language Processing for human-robot interaction.
 
 > run system_diagnostics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
+>
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
 
 > initiate --connection_protocol
-Let's connect and build the future together! 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
+>
+> Let's connect and build the future together!
+>
+> [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
 
 
 
