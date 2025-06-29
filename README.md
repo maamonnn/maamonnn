@@ -29,7 +29,7 @@ Languages and Tools:
 > run system_diagnostics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
-[![Ferdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamonnn)](https://github.com/anuraghazra/github-readme-stats)
 
 > initiate --connection_protocol
 
