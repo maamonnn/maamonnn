@@ -13,21 +13,21 @@
 - [STATUS: FOCUS]         > Robotics & Artificial Intelligence Engineering
 - [STATUS: GOAL]          > To bridge the gap between human creativity and machine intelligence.
 ```
+```yaml
 > ls /core_systems
-
+```
 Languages and Tools:
-
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv,c,cpp,arduino,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
+```yaml
 > query --active_missions
-
-- [IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
-
-- [LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
-
-- [EXPLORING] Natural Language Processing for human-robot interaction.
-
+[IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
+[LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
+[EXPLORING] Natural Language Processing for human-robot interaction.
+```
+```yaml
 > run system_diagnostics
-
+Output:
+```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamonnn&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
