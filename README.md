@@ -15,9 +15,10 @@
 
 > ls /core_systems
 Languages and Tools:
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-</a>
+Python
+C++
+C
+JavaScript
 
 > query --active_missions
 [IN_PROGRESS] Currently building an rugpull detector for tokens in solana ecosystem.
