@@ -45,6 +45,7 @@ Output:
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
 </p>
+
 ```yaml
 > End of transmission.
 ```
