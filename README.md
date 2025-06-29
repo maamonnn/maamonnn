@@ -17,12 +17,14 @@
 > 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=light)](https://skillicons.dev)
 > query --active_missions
->
-> [IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
->
-> [LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
->
-> [EXPLORING] Natural Language Processing for human-robot interaction.
+
+Languages and Tools:
+
+[IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
+
+[LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
+
+[EXPLORING] Natural Language Processing for human-robot interaction.
 
 > run system_diagnostics
 >
