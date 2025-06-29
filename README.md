@@ -27,14 +27,14 @@ Languages and Tools:
 [EXPLORING] Natural Language Processing for human-robot interaction.
 
 > run system_diagnostics
->
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
 
 > initiate --connection_protocol
->
-> Let's connect and build the future together!
->
-> [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
+
+Let's connect and build the future together!
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
 
 
 
