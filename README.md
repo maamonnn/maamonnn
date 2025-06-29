@@ -12,9 +12,10 @@
 - [STATUS: AFFILIATION]   > Student at Universitas Airlangga
 - [STATUS: FOCUS]         > Robotics & Artificial Intelligence Engineering
 - [STATUS: GOAL]          > To bridge the gap between human creativity and machine intelligence.
-
+```
 > ls /core_systems
 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=light)](https://skillicons.dev)
 
 > query --active_missions
 [IN_PROGRESS] Currently building an rugpull detector for tokens in solana ecosystem.
