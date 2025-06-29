@@ -31,10 +31,9 @@ Output:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maamonnn&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maamonnn&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+```yaml
 > initiate --connection_protocol
-
-
+```
 
 
 <p align="center">
@@ -46,8 +45,7 @@ Output:
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
 </p>
-
-  > End of transmission.
-
-
+```yaml
+> End of transmission.
+```
 
