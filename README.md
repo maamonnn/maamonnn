@@ -36,7 +36,14 @@ Languages and Tools:
 
 Let's connect and build the future together!
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ferdian-adham-62885223a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ferdianadham@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</p>
 
 
 
