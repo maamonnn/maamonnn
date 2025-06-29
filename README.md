@@ -15,6 +15,7 @@
 ```
 > ls /core_systems
 Languages and Tools:
+> 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,javascript,nodejs,react,express&theme=light)](https://skillicons.dev)
 
 > query --active_missions
