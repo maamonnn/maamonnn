@@ -6,7 +6,7 @@
 
 ---
 
-### `>  /about_me.txt`
+### `> cat /about_me.txt`
 ```yaml
 - [STATUS: IDENTITY]      > Ferdi
 - [STATUS: AFFILIATION]   > Student at Universitas Airlangga
