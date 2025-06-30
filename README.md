@@ -17,7 +17,7 @@
 > ls /core_systems
 Languages and Tools:
 ```
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv,c,cpp,arduino,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv,django,c,cpp,arduino,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
 ```yaml
 > query --active_missions
 [IN_PROGRESS] Currently building an Automated Response Review System.
