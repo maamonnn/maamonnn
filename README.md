@@ -20,9 +20,9 @@ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv,c,cpp,arduino,javascript,nodejs,react,express&theme=dark)](https://skillicons.dev)
 ```yaml
 > query --active_missions
-[IN_PROGRESS] Currently building an autonomous drone for warehouse inventory management.
-[LEARNING] Diving deeper into Reinforcement Learning for robotic arm manipulation.
-[EXPLORING] Natural Language Processing for human-robot interaction.
+[IN_PROGRESS] Currently building an Automated Response Review System.
+[LEARNING] Natural Language Processing and Neural Network Algorithm.
+[EXPLORING] Blockchain and Web3 in Ecosystem Solana.
 ```
 ```yaml
 > run system_diagnostics
